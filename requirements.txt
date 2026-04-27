@@ -1,0 +1,11 @@
+opencv-python
+numpy==1.26.4
+customtkinter
+pillow
+transformers
+ultralytics
+pygame
+torch
+torchvision
+torchaudio
+mediapipe==0.10.14

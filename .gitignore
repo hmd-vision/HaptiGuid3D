@@ -1,0 +1,10 @@
+_env/
+hri_env/
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.vscode/
+.idea/

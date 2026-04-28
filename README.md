@@ -5,6 +5,9 @@ HaptiGuide3D is a real-time assistive navigation system that combines computer v
 
 ---
 
+![HaptiGuide3D Demo](demo/demo.png)
+
+---
 ## 🚀 Features
 
 - Real-time object detection using YOLOv8  
@@ -108,3 +111,11 @@ python main.py
 - MediaPipe  
 - Depth Anything V2  
 - Pygame (audio feedback)  
+
+## 🎯 Demo
+
+<p align="center">
+  <img src="assets/demo.png" width="800"/>
+  <br>
+  <em>Real-time object detection, depth estimation, and gesture-based navigation</em>
+</p>

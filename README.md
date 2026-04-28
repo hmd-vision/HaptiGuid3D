@@ -115,7 +115,7 @@ python main.py
 ## 🎯 Demo
 
 <p align="center">
-  <img src="demo/demo.png" width="800"/>
+  <img src="demo/live.png" width="800"/>
   <br>
   <em>Real-time object detection, depth estimation, and gesture-based navigation</em>
 </p>
